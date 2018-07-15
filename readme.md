@@ -19,6 +19,8 @@ For example: "Hi Kevin! Hope you have a great day!"
 
 <b>File to Edit</b>: student.py
 
+<hr />
+
 ## Simple Calculator
 
 <b>Your Task</b>: We are beginning the process of designing a calculator. Right now, it's going to be pretty simple - just doing basic operations. But later, as we learn more things, we'll make this calculator more useful and complex. For now, just create a calculator that asks the user for 2 numbers, then shows the result after:
@@ -39,7 +41,9 @@ For now, your program should print all of these answers on separate lines
 
 <b>File to Edit</b>: basic-calc.py
 
-##Create a Mad Lab
+<hr />
+
+## Create a Mad Lab
 
 <b>Your Task</b>: You're going to create a Mad-Lib for the user to fill in. A Mad-Lib is like a story with some of the important information removed - for example, the character's name and location is something the user can fill in.
 
@@ -61,3 +65,5 @@ Once the user has entered all of their words, print out your story *on one line*
 -  Watch your syntax when you're _concatenating_ strings together
 
 <b>File to Edit</b>: madlib.py
+
+<hr />
