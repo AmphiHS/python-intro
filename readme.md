@@ -69,3 +69,28 @@ Once the user has entered all of their words, print out your story *on one line*
 <b>File to Edit</b>: madlib.py
 
 <hr />
+
+## Chaos Generator
+
+Schneider is interested in something called _Chaos Theory_, which is when you repeat a small process over and over and over again and see what happens. This idea can show up in Evolution (where small evolutionary changes lead to big results) and in how the Weather is predicted (where small random changes in atmosphere and temperature can lead to giant shifts in weather).
+
+Schneider wants to investigate this concept in Math, specifically around this function: <b>f(x) = (x + 3)^2 - 33</b>. He's wondering what happens when you take a random number and plug it into that function, then take the _answer_ and plug it in to the function again. Here's an example:
+
+- Start with the number 1
+- f(1) = (1 + 3)^2 - 33 = -17
+- Plug the answer (-17) back into the function:
+- f(-17) = (-17 + 3)^2 - 33 = 163
+- Keep repeating and see what happens
+
+<b>Your Task</b>: Create a program that asks the user for a number, plugs it into the function _f(x) = (x + 3)^2 - 33_, then takes that answer and repeats this process 10 more times. When your program is done, 10 numbers should be printed to the screen.
+
+<b>Watch Out For</b>:
+
+-  Make sure you're using Order of Operations correctly
+-  We haven't learned about loops yet, so you'll need to use copy and paste a lot for this program
+
+<b>File to Edit</b>: chaos.py
+
+<b>When You Finish:</b> When you test your code, you may notice that the numbers tend to get <b>very large very fast</b>. Can you find a number that, when you type it in, stays the same the entire time? This is called a <b>Fixed Point</b> because it doesn't change even as the rest of the system tends towards chaos.
+
+<hr />
