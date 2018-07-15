@@ -1,5 +1,7 @@
 # Intro Python Assignments
 
+You can complete the assignments below in any order. You must complete <b>3 out of the 4</b> programs to earn full credit.
+
 ## Student Questionnaire
 
 <b>Your Task</b>: You are designing a program that will be used to get to know different students at Amphi. To do this, the program should ask the student for:
