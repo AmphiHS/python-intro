@@ -27,3 +27,23 @@ For now, your program should print all of these answers on separate lines
 - [x] Be careful about converting between strings and ints
 - [x] If you forgot how to do exponents and remainders, look at the notes for this assignment
 *File to Edit*: basic-calc.py
+
+##Create a Mad Lab
+
+*Your Task*: You're going to create a Mad-Lib for the user to fill in. A Mad-Lib is like a story with some of the important information removed - for example, the character's name and location is something the user can fill in.
+
+To create this mad-lib, you should first come up with your story. Try writing it in a google doc or on a sheet of paper. The only story requirement is it *must end with an explosion*.
+
+Once you have a story, find places that the user can replace with their own suggestion. You'll need to make room for:
+- [x] 6 nouns
+- [x] 3 verbs
+- [x] 2 adjectives
+- [x] 2 adverbs
+- [x] a location
+- [x] a color
+
+Once the user has entered all of their words, print out your story *on one line*.
+
+*Watch Out For*:
+- [x] Watch your syntax when you're _concatenating_ strings together
+*File to Edit*: madlib.py
